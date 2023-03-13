@@ -1,0 +1,61 @@
+* {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        h1{
+            text-align: center;
+            margin-top: 8%;
+        }
+
+        #main {
+            height: 70vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        #myform {
+            background-color: aqua;
+            border-radius: 30px;
+            /* border: 1px solid red; */
+            width: 50vw;
+            height: 35vh;
+            /* margin-left: 25rem; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* .form01 {
+            border: 2px solid yellow;
+        } */
+
+        .inform {
+            /* border: 2px solid white; */
+            height: 20vh;
+        }
+
+        .grid1 {
+            /* border: 2px solid orangered; */
+            margin-top: 12%;
+            width: 50vw;
+            height: 15vh;
+            
+        }
+
+        #cel {
+            height: 5vh;
+            width: 80%;
+        }
+
+        #btn {
+            height: 10%;
+            width: 15%;
+        }
+
+        .tempf {
+            height: 50vh;
+        }
